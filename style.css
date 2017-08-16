@@ -1,0 +1,101 @@
+*{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#background{
+    height: 1700px; 
+    width: 1000px; 
+    background-color: #f9f9f9
+}
+#heading{
+    height: 50px; 
+    width: 1000px; 
+}
+#name{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+    font-size: 20pt; 
+    display: inline-block;
+    width: 700px; 
+}
+#tag{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold; 
+    display: inline-block;
+}
+#body{
+    height: 1250px; 
+    width: 1000px; 
+    background-color: #6f5964; 
+    padding: 2px; 
+}
+.intro{
+    width: 480px; 
+    height: 300px; 
+    margin: 5px; 
+    display: inline-block; 
+    padding: 2px; 
+    vertical-align: top; 
+    background-color: #eae1e9; 
+}
+#headshot{ 
+    width: 430px;  
+    height: auto; 
+    align-content: center; 
+    padding: 10px; 
+}
+.boxhead{
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif; 
+    background-color: gray; 
+    height: 50px; 
+    font-size: 22pt; 
+    vertical-align: top; 
+    padding: 5px 
+}
+p{
+    color: black; 
+    padding: 0px 3px; 
+}
+.projects{
+    width: 300px; 
+    height: 500px; 
+    background-color: #eae1e9; 
+    display: inline-block;
+    margin: 0px 10px 0px 15px;  
+    vertical-align: top; 
+}
+.technologies{
+    width: 300px; 
+    height: 250px; 
+    background-color: #eae1e9; 
+    display: inline-block;
+    margin: 0px 10px 0px 15px;  
+    vertical-align: top; 
+}
+.projimag{
+    width:300px;
+    height: auto; 
+}
+.techlogo{
+    width: 45px;
+    height: 45px;
+    margin: 5px; 
+}
+.button{
+    color: white; 
+    background-color: green; 
+    align-content: center; 
+    border: 1px solid black; 
+    margin: 1px 30px; 
+    padding: 1px 60px; 
+}
+#foot{
+    height: 50px; 
+    width: 1000px; 
+    text-align: center; 
+}
+.imag{
+    width:15px;
+    height:15px; 
+    margin:2px; 
+}
